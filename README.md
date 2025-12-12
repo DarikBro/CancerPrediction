@@ -1,4 +1,4 @@
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1f316158-1208-42d2-b6cb-bc0dd43114a4" />
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/3b3211b1-1618-4ad9-8cc5-6255d1a58a4b" />
 
 # Metastatic Tissue Detection using Deep Learning
 
