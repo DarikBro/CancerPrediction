@@ -14,6 +14,7 @@ First, download the project code to your local machine.
 ```bash
 git clone [https://github.com/your-username/metastasis-detection-project.git](https://github.com/your-username/metastasis-detection-project.git)
 cd metastasis-detection-project
+```
 
 ### 2️⃣ Set Up a Virtual Environment (Recommended)
 It is best practice to create a virtual environment to keep dependencies organized.
@@ -21,11 +22,10 @@ It is best practice to create a virtual environment to keep dependencies organiz
 For Windows:
 
 Bash
-
 python -m venv venv
 .\venv\Scripts\activate
-For Mac/Linux:
 
+For Mac/Linux:
 Bash
 
 python3 -m venv venv
